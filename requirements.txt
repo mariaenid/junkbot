@@ -1,1 +1,1 @@
-Flask==0.12.3
+Adafruit-GPIO==1.0.3
